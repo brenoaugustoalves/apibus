@@ -1,0 +1,1 @@
+Esse projeto visa a facilitação de consulta de saldo e tarifa do cartão eletronico nos onibus municipais e intermunicipais. Assim o usuario tem informação da tarifa que foi descontada e o saldo que resta no cartão.
